@@ -1,4 +1,11 @@
----
+--mercury
+venus
+earth
+mars
+jupiter
+saturn 
+neptune
+pluto-
 title: Structuring planet data
 slug: Learn/HTML/Tables/Structuring_planet_data
 page-type: learn-module-chapter
